@@ -7,5 +7,5 @@ title = "Blue Octopus"
 weight = 9
 +++
 
-Blue Octopus. Acrylic cells on canvas.
+SOLD - Blue Octopus. Acrylic cells on canvas.
 

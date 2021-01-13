@@ -7,4 +7,4 @@ title = "12 inch surfboard"
 weight = 3
 +++
 
-12 inch long surfboard.
+Available - 12 inch long surfboard.

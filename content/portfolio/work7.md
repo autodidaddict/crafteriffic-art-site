@@ -7,4 +7,4 @@ draft = false
 weight = 7
 +++
 
-Star-Trek inspired acrylic cells on canvas.
+Available - Star-Trek inspired acrylic cells on canvas.

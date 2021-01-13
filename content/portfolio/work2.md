@@ -4,7 +4,7 @@ title = "NE Patriots"
 draft = false
 image = "img/portfolio/ne-patriots.jpg"
 showonlyimage = false
-weight = 1
+weight = 13
 +++
 
-New England Patriots NFL team color inspired _dirty pour_ on canvas.
+GIFTED - New England Patriots NFL team color inspired _dirty pour_ on canvas.

@@ -7,4 +7,4 @@ title = "Pride Cells"
 weight = 11
 +++
 
-Pride cells in acrylic on canvas. In recognition of **Pride Month 2020**.
+SOLD - Pride cells in acrylic on canvas. In recognition of **Pride Month 2020**.

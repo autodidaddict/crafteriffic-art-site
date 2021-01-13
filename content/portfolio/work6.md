@@ -7,4 +7,4 @@ showonlyimage = false
 weight = 6
 +++
 
-Acrylic cells in action.
+SOLD - Acrylic cells in action.
