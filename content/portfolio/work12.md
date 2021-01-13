@@ -7,4 +7,4 @@ title = "Large Sculpted Panel"
 weight = 4
 +++
 
-Available - Beautiful 12x12 sculpted panel ocean with turtles.
++Available - Beautiful 12x12 sculpted panel ocean with turtles.

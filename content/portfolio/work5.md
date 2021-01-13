@@ -7,4 +7,4 @@ title = "Ocean Waves"
 weight = 14
 +++
 
-SOLD - 12x12 Ocean.
++SOLD - 12x12 Ocean.
