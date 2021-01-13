@@ -7,4 +7,4 @@ title = "Daisies"
 weight = 4
 +++
 
-Daisies in a vase. Oils on canvas.
+Available - Daisies in a vase. Oils on canvas.

@@ -7,4 +7,4 @@ title = "Ocean Coasters"
 weight = 8
 +++
 
-Customer comission - 5 coasters, ocean artwork. Acrylic cells with resin topcoat.
+Customer commission - 5 coasters, ocean artwork. Acrylic cells with resin topcoat.

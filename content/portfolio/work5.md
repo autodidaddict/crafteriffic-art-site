@@ -4,7 +4,7 @@ showonlyimage = false
 draft = false
 date = "2016-11-05T19:53:42+05:30"
 title = "Ocean Waves"
-weight = 5
+weight = 14
 +++
 
-12x12 Ocean.
++SOLD - 12x12 Ocean.

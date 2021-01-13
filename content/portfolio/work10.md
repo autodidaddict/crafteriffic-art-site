@@ -7,5 +7,5 @@ title = "Ocean Cells"
 weight = 10
 +++
 
-Acrylic cells on canvas (_image taken while wet_).
+Available - Acrylic cells on canvas.
 

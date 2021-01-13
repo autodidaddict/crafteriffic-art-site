@@ -7,4 +7,5 @@ title = "4x4 Coasters"
 weight = 1
 +++
 
-Beautiful 4x4 coaster set.
++Availble - Beautiful 4x4 coaster set.
+
