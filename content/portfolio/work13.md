@@ -7,5 +7,9 @@ title = "4x4 Coasters"
 weight = 1
 +++
 
+<<<<<<< Updated upstream
 +Availble - Beautiful 4x4 coaster set.
 
+=======
+Available - Beautiful 4x4 coaster set.
+>>>>>>> Stashed changes

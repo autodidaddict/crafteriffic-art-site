@@ -7,4 +7,4 @@ draft = false
 weight = 2
 +++
 
-**WIP** - Red Planet. Cell art on canvas.
+SOLD - Red Planet. Cell art on canvas.
