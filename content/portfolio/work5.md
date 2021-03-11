@@ -1,10 +1,10 @@
 +++
-image = "/img/portfolio/ocean-waves.jpg"
+image = "/img/portfolio/Shark.jpg"
 showonlyimage = false
 draft = false
 date = "2016-11-05T19:53:42+05:30"
-title = "Ocean Waves"
+title = "Shark"
 weight = 14
 +++
 
-+SOLD - 12x12 Ocean.
+12x12 Ocean with Shark $65

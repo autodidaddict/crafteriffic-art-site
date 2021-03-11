@@ -1,10 +1,10 @@
 +++
 draft = false
-image = "img/portfolio/purple-gaze.jpg"
+image = "img/portfolio/Red Clock.jpg"
 date = "2016-11-05T19:56:17+05:30"
-title = "Purple Gaze"
+title = "Red Clock"
 showonlyimage = false
 weight = 6
 +++
 
-SOLD - Acrylic cells in action.
+8inch Red Clock $45
