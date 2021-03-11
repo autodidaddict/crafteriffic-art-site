@@ -7,9 +7,5 @@ title = "4x4 Coasters"
 weight = 1
 +++
 
-<<<<<<< Updated upstream
-+Availble - Beautiful 4x4 coaster set.
+Beautiful 4x4 coaster set $30. I also take custom color request for coaster sets.
 
-=======
-Available - Beautiful 4x4 coaster set.
->>>>>>> Stashed changes

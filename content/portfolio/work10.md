@@ -1,11 +1,11 @@
 +++
 draft = false
-image = "img/portfolio/ocean-cells.jpg"
+image = "img/portfolio/Dolphin Fun.jpg"
 showonlyimage = false
 date = "2016-11-05T20:22:08+05:30"
-title = "Ocean Cells"
+title = "Dolphin Fun"
 weight = 10
 +++
 
-Available - Acrylic cells on canvas.
+Acrylic and resin art work 'Dolphin Fun' $65
 

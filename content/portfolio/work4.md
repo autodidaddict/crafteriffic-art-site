@@ -7,4 +7,4 @@ title = "Daisies"
 weight = 4
 +++
 
-Available - Daisies in a vase. Oils on canvas.
+Daisies in a vase 12x24 Oils on canvas $130
