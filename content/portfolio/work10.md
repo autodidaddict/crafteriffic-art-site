@@ -1,11 +1,11 @@
 +++
 draft = false
-image = "img/portfolio/Dolphin Fun.jpg"
+image = "img/portfolio/4x4coasters.jpg"
 showonlyimage = false
-date = "2016-11-05T20:22:08+05:30"
-title = "Dolphin Fun"
-weight = 10
+date = "2021-01-13T20:23:59+06:30"
+title = "4x4 Coasters"
+weight = 1
 +++
 
-Acrylic and resin art work 'Dolphin Fun' $65
+Beautiful 4x4 coaster set $30. I also take custom color request for coaster sets.
 

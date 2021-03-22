@@ -1,10 +1,10 @@
 +++
 draft = false
-image = "img/portfolio/daisies.jpg"
+image = "img/portfolio/Red Clock.jpg"
+date = "2016-11-05T19:56:17+05:30"
+title = "Red Clock"
 showonlyimage = false
-date = "2016-11-05T19:50:47+05:30"
-title = "Daisies"
-weight = 4
+weight = 6
 +++
 
-Daisies in a vase 12x24 Oils on canvas $130
+8inch Red Clock $45

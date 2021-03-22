@@ -1,11 +1,10 @@
 +++
 draft = false
-image = "img/portfolio/Seahorse.jpg"
+image = "img/portfolio/12x12sculptedpanel.jpg"
 showonlyimage = false
-date = "2016-11-05T20:02:19+05:30"
-title = "Seahorse"
-weight = 9
+date = "2021-01-13T20:23:59+05:20"
+title = "Large Sculpted Panel"
+weight = 4
 +++
 
-Seahorse 7.5x19ish $55
-
+Beautiful 12x12 sculpted panel ocean with turtles $65

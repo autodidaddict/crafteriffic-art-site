@@ -1,10 +1,10 @@
 +++
-image = "img/portfolio/Stainglass coasters.jpg"
+image = "/img/portfolio/Shark.jpg"
 showonlyimage = false
-date = "2016-11-05T19:44:32+05:30"
-title = "Stain Glass Coasters"
 draft = false
-weight = 2
+date = "2016-11-05T19:53:42+05:30"
+title = "Shark"
+weight = 14
 +++
 
-Set of 4 coasters $30
+12x12 Ocean with Shark $65

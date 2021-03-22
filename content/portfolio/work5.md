@@ -1,10 +1,10 @@
 +++
-image = "/img/portfolio/Shark.jpg"
+image = "img/portfolio/star-trek.jpg"
 showonlyimage = false
+date = "2016-11-05T19:57:40+05:30"
+title = "Star Trek"
 draft = false
-date = "2016-11-05T19:53:42+05:30"
-title = "Shark"
-weight = 14
+weight = 7
 +++
 
-12x12 Ocean with Shark $65
+Star-Trek inspired 8x8 acrylic cells on canvas $25
