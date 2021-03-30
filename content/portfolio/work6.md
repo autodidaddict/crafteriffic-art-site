@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/Seahorse.jpg"
+image = "/img/portfolio/Seahorse.jpg"
 showonlyimage = false
 date = "2016-11-05T20:02:19+05:30"
 title = "Seahorse"
