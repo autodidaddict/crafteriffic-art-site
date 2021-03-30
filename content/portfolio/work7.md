@@ -8,4 +8,3 @@ weight = 10
 +++
 
 Acrylic and resin art work 'Dolphin Fun' $65
-

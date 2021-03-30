@@ -54,9 +54,9 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  #facebook      = "full profile url in facebook"
+  #facebook      = "https://www.facebook.com/crafteriffic"
   #googleplus    = "full profile url in googleplus"
-  email         = "crafteriffic [at] live [dot] com"
+  email         = "crafteriffic [at] live.com"
   #twitter       = "full profile url in twitter"
   #linkedin      = "full profile url in linkedin"
   #stackoverflow = "full profile url in stackoverflow"
