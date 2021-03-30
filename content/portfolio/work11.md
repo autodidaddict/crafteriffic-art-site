@@ -8,4 +8,3 @@ weight = 3
 +++
 
 12inch long surfboard $30
-
