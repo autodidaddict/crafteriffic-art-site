@@ -1,11 +1,10 @@
 +++
 draft = false
-image = "img/portfolio/pride-cells.jpg"
+image = "/img/portfolio/12inchsurfboard.jpg"
 showonlyimage = false
-date = "2016-11-05T20:23:59+05:30"
-title = "Pride Cells"
-weight = 11
+date = "2021-01-13T20:23:59+08:30"
+title = "12 inch surfboard"
+weight = 3
 +++
 
-+SOLD - Pride cells in acrylic on canvas. In recognition of **Pride Month 2020**.
--Pride cells in acrylic on canvas. In recognition of **Pride Month 2020**.
+12inch long surfboard $30
