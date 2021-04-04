@@ -11,7 +11,6 @@ Beautiful 4x4 coaster set $30. I also take custom color request for coaster sets
 
 <div id='product-component-1617130479798'></div>
 <script type="text/javascript">
-/*<![CDATA[*/
 (function () {
   var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
   if (window.ShopifyBuy) {
@@ -97,6 +96,5 @@ Beautiful 4x4 coaster set $30. I also take custom color request for coaster sets
     });
   }
 })();
-/*]]>*/
 </script>
 
