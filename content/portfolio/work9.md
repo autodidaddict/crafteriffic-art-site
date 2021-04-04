@@ -11,7 +11,7 @@ Beautiful 12x12 sculpted panel ocean with turtles $65
 
 <div id='product-component-1617130885332'></div>
 <script type="text/javascript">
-
+/*<![CDATA[*/
 (function () {
   var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
   if (window.ShopifyBuy) {
@@ -97,4 +97,5 @@ Beautiful 12x12 sculpted panel ocean with turtles $65
     });
   }
 })();
+/*]]>*/
 </script>

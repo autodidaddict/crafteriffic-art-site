@@ -11,6 +11,7 @@ Set of 4 coasters $30
 
 <div id='product-component-1617131456073'></div>
 <script type="text/javascript">
+/*<![CDATA[*/
 (function () {
   var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
   if (window.ShopifyBuy) {
@@ -96,4 +97,5 @@ Set of 4 coasters $30
     });
   }
 })();
+/*]]>*/
 </script>

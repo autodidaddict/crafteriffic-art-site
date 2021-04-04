@@ -11,6 +11,7 @@ weight = 6
 
 <div id='product-component-1617131858920'></div>
 <script type="text/javascript">
+/*<![CDATA[*/
 (function () {
   var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
   if (window.ShopifyBuy) {
@@ -96,4 +97,5 @@ weight = 6
     });
   }
 })();
+/*]]>*/
 </script>

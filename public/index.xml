@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crafteriffic Art</title>
+    <link>https://crafteriffic.art/</link>
+    <description>Recent content on Crafteriffic Art</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jan 2021 20:23:59 +0520</lastBuildDate>
+    
+	<atom:link href="https://crafteriffic.art/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>4x4 Coasters</title>
+      <link>https://crafteriffic.art/portfolio/work10/</link>
+      <pubDate>Wed, 13 Jan 2021 20:23:59 +0630</pubDate>
+      
+      <guid>https://crafteriffic.art/portfolio/work10/</guid>
+      <description>Beautiful 4x4 coaster set $30. I also take custom color request for coaster sets.
+ (function () { var scriptURL = &#39;https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js&#39;; if (window.ShopifyBuy) { if (window.ShopifyBuy.UI) { ShopifyBuyInit(); } else { loadScript(); } } else { loadScript(); } function loadScript() { var script = document.createElement(&#39;script&#39;); script.async = true; script.src = scriptURL; (document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(script); script.onload = ShopifyBuyInit; } function ShopifyBuyInit() { var client = ShopifyBuy.buildClient({ domain: &#39;crafteriffic.myshopify.com&#39;, storefrontAccessToken: &#39;5a2e6619bea7158de684fbe016915bee&#39;, }); ShopifyBuy.</description>
+    </item>
+    
+    <item>
+      <title>Stain Glass Coasters</title>
+      <link>https://crafteriffic.art/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://crafteriffic.art/portfolio/work2/</guid>
+      <description>Set of 4 coasters $30
+ (function () { var scriptURL = &#39;https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js&#39;; if (window.ShopifyBuy) { if (window.ShopifyBuy.UI) { ShopifyBuyInit(); } else { loadScript(); } } else { loadScript(); } function loadScript() { var script = document.createElement(&#39;script&#39;); script.async = true; script.src = scriptURL; (document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(script); script.onload = ShopifyBuyInit; } function ShopifyBuyInit() { var client = ShopifyBuy.buildClient({ domain: &#39;crafteriffic.myshopify.com&#39;, storefrontAccessToken: &#39;5a2e6619bea7158de684fbe016915bee&#39;, }); ShopifyBuy.UI.onReady(client).then(function (ui) { ui.createComponent(&#39;product&#39;, { id: &#39;6671565226133&#39;, node: document.</description>
+    </item>
+    
+    <item>
+      <title>12 inch surfboard</title>
+      <link>https://crafteriffic.art/portfolio/work11/</link>
+      <pubDate>Wed, 13 Jan 2021 20:23:59 +0830</pubDate>
+      
+      <guid>https://crafteriffic.art/portfolio/work11/</guid>
+      <description>12inch long surfboard $30</description>
+    </item>
+    
+    <item>
+      <title>Large Sculpted Panel</title>
+      <link>https://crafteriffic.art/portfolio/work9/</link>
+      <pubDate>Wed, 13 Jan 2021 20:23:59 +0520</pubDate>
+      
+      <guid>https://crafteriffic.art/portfolio/work9/</guid>
+      <description>Beautiful 12x12 sculpted panel ocean with turtles $65
+ (function () { var scriptURL = &amp;lsquo;https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js&#39;; if (window.ShopifyBuy) { if (window.ShopifyBuy.UI) { ShopifyBuyInit(); } else { loadScript(); } } else { loadScript(); } function loadScript() { var script = document.createElement(&amp;lsquo;script&amp;rsquo;); script.async = true; script.src = scriptURL; (document.getElementsByTagName(&amp;lsquo;head&amp;rsquo;)[0] || document.getElementsByTagName(&amp;lsquo;body&amp;rsquo;)[0]).appendChild(script); script.onload = ShopifyBuyInit; } function ShopifyBuyInit() { var client = ShopifyBuy.buildClient({ domain: &amp;lsquo;crafteriffic.myshopify.com&amp;rsquo;, storefrontAccessToken: &amp;lsquo;5a2e6619bea7158de684fbe016915bee&amp;rsquo;, }); ShopifyBuy.UI.onReady(client).then(function (ui) { ui.createComponent(&amp;lsquo;product&amp;rsquo;, { id: &amp;lsquo;6671144353941&amp;rsquo;, node: document.</description>
+    </item>
+    
+    <item>
+      <title>Daisies</title>
+      <link>https://crafteriffic.art/portfolio/work99/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://crafteriffic.art/portfolio/work99/</guid>
+      <description>Daisies in a vase 12x24 Oils on canvas $130</description>
+    </item>
+    
+    <item>
+      <title>Red Clock</title>
+      <link>https://crafteriffic.art/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      
+      <guid>https://crafteriffic.art/portfolio/work4/</guid>
+      <description>8inch Red Clock $45
+ (function () { var scriptURL = &#39;https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js&#39;; if (window.ShopifyBuy) { if (window.ShopifyBuy.UI) { ShopifyBuyInit(); } else { loadScript(); } } else { loadScript(); } function loadScript() { var script = document.createElement(&#39;script&#39;); script.async = true; script.src = scriptURL; (document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(script); script.onload = ShopifyBuyInit; } function ShopifyBuyInit() { var client = ShopifyBuy.buildClient({ domain: &#39;crafteriffic.myshopify.com&#39;, storefrontAccessToken: &#39;5a2e6619bea7158de684fbe016915bee&#39;, }); ShopifyBuy.UI.onReady(client).then(function (ui) { ui.createComponent(&#39;product&#39;, { id: &#39;6671581446293&#39;, node: document.getElementById(&#39;product-component-1617131858920&#39;), moneyFormat: &#39;%24%7B%7Bamount%7D%7D&#39;, options: { &#34;</description>
+    </item>
+    
+    <item>
+      <title>Star Trek</title>
+      <link>https://crafteriffic.art/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>https://crafteriffic.art/portfolio/work5/</guid>
+      <description>Star-Trek inspired 8x8 acrylic cells on canvas $25</description>
+    </item>
+    
+    <item>
+      <title>Ocean Coasters</title>
+      <link>https://crafteriffic.art/portfolio/work97/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>https://crafteriffic.art/portfolio/work97/</guid>
+      <description>Customer commission - 5 coasters, ocean artwork. Acrylic cells with resin topcoat.</description>
+    </item>
+    
+    <item>
+      <title>Seahorse</title>
+      <link>https://crafteriffic.art/portfolio/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      
+      <guid>https://crafteriffic.art/portfolio/work6/</guid>
+      <description>Seahorse 7.5x19ish $55
+ /**/  </description>
+    </item>
+    
+    <item>
+      <title>Dolphin Fun</title>
+      <link>https://crafteriffic.art/portfolio/work7/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>https://crafteriffic.art/portfolio/work7/</guid>
+      <description>Acrylic and resin art work &amp;lsquo;Dolphin Fun&amp;rsquo; $65</description>
+    </item>
+    
+    <item>
+      <title>Pride Cells</title>
+      <link>https://crafteriffic.art/portfolio/work8/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      
+      <guid>https://crafteriffic.art/portfolio/work8/</guid>
+      <description>+SOLD - Pride cells in acrylic on canvas. In recognition of Pride Month 2020.</description>
+    </item>
+    
+    <item>
+      <title>NE Patriots</title>
+      <link>https://crafteriffic.art/portfolio/work98/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://crafteriffic.art/portfolio/work98/</guid>
+      <description>GIFTED - New England Patriots NFL team color inspired dirty pour on canvas.</description>
+    </item>
+    
+    <item>
+      <title>Tel-Aviv Ocean</title>
+      <link>https://crafteriffic.art/portfolio/work1/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0500</pubDate>
+      
+      <guid>https://crafteriffic.art/portfolio/work1/</guid>
+      <description>SOLD - The sand in this resin art is real, as are the shells. This was my first attempt at doing resin art with ocean waves.</description>
+    </item>
+    
+    <item>
+      <title>Shark</title>
+      <link>https://crafteriffic.art/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://crafteriffic.art/portfolio/work3/</guid>
+      <description>12x12 Ocean with Shark $65
+ (function () { var scriptURL = &#39;https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js&#39;; if (window.ShopifyBuy) { if (window.ShopifyBuy.UI) { ShopifyBuyInit(); } else { loadScript(); } } else { loadScript(); } function loadScript() { var script = document.createElement(&#39;script&#39;); script.async = true; script.src = scriptURL; (document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(script); script.onload = ShopifyBuyInit; } function ShopifyBuyInit() { var client = ShopifyBuy.buildClient({ domain: &#39;crafteriffic.myshopify.com&#39;, storefrontAccessToken: &#39;5a2e6619bea7158de684fbe016915bee&#39;, }); ShopifyBuy.UI.onReady(client).then(function (ui) { ui.createComponent(&#39;product&#39;, { id: &#39;6671574139029&#39;, node: document.</description>
+    </item>
+    
+  </channel>
+</rss>
