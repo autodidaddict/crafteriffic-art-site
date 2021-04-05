@@ -7,7 +7,7 @@ draft = false
 weight = 2
 +++
 
-Set of 4 coasters $30
+Set of 4 stain glass inspired coasters - Click to purchase.
 
 <div id='product-component-1617131456073'></div>
 <script type="text/javascript">
