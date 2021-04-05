@@ -11,7 +11,7 @@ Set of 4 stain glass inspired coasters.
 
 <div id='product-component-1617131456073'></div>
 <script type="text/javascript">
-<![CDATA[*/
+/*<![CDATA[*/
 (function () {
   var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
   if (window.ShopifyBuy) {
@@ -97,5 +97,5 @@ Set of 4 stain glass inspired coasters.
     });
   }
 })();
-/*]]>
+/*]]*/>
 </script>
