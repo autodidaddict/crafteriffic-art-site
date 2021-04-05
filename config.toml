@@ -17,7 +17,7 @@ unsafe= true
   description = "Arts and crafts by Crafteriffic"
   copyright = "&copy;2020 Angelica Hoffman"
   sidebarAbout = [
-    "Wife to one genius, mom to two beautiful girls, project manager by day. Artist, planner by night."
+    "Wife to one genius, mom to two beautiful girls, project manager by day. Artist, planner by night. Click on images for more details."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
