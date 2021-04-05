@@ -7,7 +7,7 @@ title = "4x4 Coasters"
 weight = 1
 +++
 
-Beautiful 4x4 coaster set $30. I also take custom color request for coaster sets.
+Beautiful 4x4 multi-color coaster - Click to purchase. I take custom color request for coaster sets.
 
 <div id='product-component-1617130479798'></div>
 <script type="text/javascript">
