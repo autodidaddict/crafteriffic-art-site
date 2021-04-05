@@ -7,7 +7,7 @@ draft = false
 weight = 2
 +++
 
-Set of 4 stain glass inspired coasters. Images of artwork are representative of items created. All items are hand made upon purchase and so will vary from the images shown.
+Set of 4 stain glass inspired coasters.
 
 <div id='product-component-1617131456073'></div>
 <script type="text/javascript">
