@@ -57,7 +57,7 @@ unsafe= true
   url = "contact/"
 
   [params.social]
-  #facebook      = "https://www.facebook.com/crafteriffic/"
+  facebook      = "https://www.facebook.com/crafterifficart/"
   #googleplus    = "full profile url in googleplus"
   email         = "crafteriffic@live.com"
   #twitter       = "full profile url in twitter"
