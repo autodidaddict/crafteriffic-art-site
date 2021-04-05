@@ -7,11 +7,11 @@ title = "4x4 Coasters"
 weight = 1
 +++
 
-Beautiful 4x4 multi-color coaster - Click to purchase. I take custom color request for coaster sets.
+Beautiful 4x4 multi-color coaster - Click to purchase. I take custom color request for coaster sets. Images of artwork are representative of items created. All items are hand made upon purchase and so will vary from the images shown.
 
 <div id='product-component-1617130479798'></div>
 <script type="text/javascript">
-/*<![CDATA[*/
+<![CDATA[*/
 (function () {
   var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
   if (window.ShopifyBuy) {
