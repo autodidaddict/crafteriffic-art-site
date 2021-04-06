@@ -9,7 +9,7 @@ weight = 2
 
 Set of 4 stain glass inspired coasters.
 
-<div id='product-component-1617657318955'></div>
+<div id='product-component-1617713404225'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -38,19 +38,39 @@ Set of 4 stain glass inspired coasters.
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
         id: '6671565226133',
-        node: document.getElementById('product-component-1617657318955'),
+        node: document.getElementById('product-component-1617713404225'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
     "styles": {
       "product": {
         "@media (min-width: 601px)": {
-          "max-width": "calc(25% - 20px)",
-          "margin-left": "20px",
+          "max-width": "100%",
+          "margin-left": "0",
           "margin-bottom": "50px"
-        }
+        },
+        "text-align": "left"
+      },
+      "title": {
+        "font-size": "26px"
+      },
+      "price": {
+        "font-size": "18px"
+      },
+      "compareAt": {
+        "font-size": "15.299999999999999px"
+      },
+      "unitPrice": {
+        "font-size": "15.299999999999999px"
       }
     },
+    "layout": "horizontal",
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "description": true
+    },
+    "width": "100%",
     "text": {
       "button": "Add to cart"
     }
@@ -78,6 +98,30 @@ Set of 4 stain glass inspired coasters.
           "margin-left": "0px",
           "margin-bottom": "0px"
         }
+      },
+      "title": {
+        "font-family": "Helvetica Neue, sans-serif",
+        "font-weight": "bold",
+        "font-size": "26px",
+        "color": "#4c4c4c"
+      },
+      "price": {
+        "font-family": "Helvetica Neue, sans-serif",
+        "font-weight": "normal",
+        "font-size": "18px",
+        "color": "#4c4c4c"
+      },
+      "compareAt": {
+        "font-family": "Helvetica Neue, sans-serif",
+        "font-weight": "normal",
+        "font-size": "15.299999999999999px",
+        "color": "#4c4c4c"
+      },
+      "unitPrice": {
+        "font-family": "Helvetica Neue, sans-serif",
+        "font-weight": "normal",
+        "font-size": "15.299999999999999px",
+        "color": "#4c4c4c"
       }
     },
     "text": {
