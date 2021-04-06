@@ -9,7 +9,7 @@ weight = 1
 
 Beautiful 4x4 multi-color coaster. I take custom color request for coaster sets, please include colors at checkout.
 
-<div id='product-component-1617712905925'></div>
+<div id='product-component-1617713115479'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -38,19 +38,39 @@ Beautiful 4x4 multi-color coaster. I take custom color request for coaster sets,
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
         id: '6671134294165',
-        node: document.getElementById('product-component-1617712905925'),
+        node: document.getElementById('product-component-1617713115479'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
     "styles": {
       "product": {
         "@media (min-width: 601px)": {
-          "max-width": "calc(25% - 20px)",
-          "margin-left": "20px",
+          "max-width": "100%",
+          "margin-left": "0",
           "margin-bottom": "50px"
-        }
+        },
+        "text-align": "left"
+      },
+      "title": {
+        "font-size": "26px"
+      },
+      "price": {
+        "font-size": "18px"
+      },
+      "compareAt": {
+        "font-size": "15.299999999999999px"
+      },
+      "unitPrice": {
+        "font-size": "15.299999999999999px"
       }
     },
+    "layout": "horizontal",
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "description": true
+    },
+    "width": "100%",
     "text": {
       "button": "Add to cart"
     }
@@ -78,6 +98,30 @@ Beautiful 4x4 multi-color coaster. I take custom color request for coaster sets,
           "margin-left": "0px",
           "margin-bottom": "0px"
         }
+      },
+      "title": {
+        "font-family": "Helvetica Neue, sans-serif",
+        "font-weight": "bold",
+        "font-size": "26px",
+        "color": "#4c4c4c"
+      },
+      "price": {
+        "font-family": "Helvetica Neue, sans-serif",
+        "font-weight": "normal",
+        "font-size": "18px",
+        "color": "#4c4c4c"
+      },
+      "compareAt": {
+        "font-family": "Helvetica Neue, sans-serif",
+        "font-weight": "normal",
+        "font-size": "15.299999999999999px",
+        "color": "#4c4c4c"
+      },
+      "unitPrice": {
+        "font-family": "Helvetica Neue, sans-serif",
+        "font-weight": "normal",
+        "font-size": "15.299999999999999px",
+        "color": "#4c4c4c"
       }
     },
     "text": {
