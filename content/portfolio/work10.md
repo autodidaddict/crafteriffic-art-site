@@ -7,7 +7,7 @@ title = "4x4 Coasters"
 weight = 1
 +++
 
-Beautiful 4x4 multi-color coaster. I take custom color request for coaster sets, please include colors at checkout.
+Beautiful 4x4 multi-color coaster. 
 
 <div id='product-component-1617713115479'></div>
 <script type="text/javascript">
