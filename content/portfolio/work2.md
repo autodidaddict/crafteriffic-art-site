@@ -9,7 +9,7 @@ weight = 2
 
 Set of 4 stain glass inspired coasters.
 
-<div id='product-component-1617713404225'></div>
+<div id='product-component-1617713593267'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -38,7 +38,7 @@ Set of 4 stain glass inspired coasters.
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
         id: '6671565226133',
-        node: document.getElementById('product-component-1617713404225'),
+        node: document.getElementById('product-component-1617713593267'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
