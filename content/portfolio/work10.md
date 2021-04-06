@@ -9,9 +9,9 @@ weight = 1
 
 Beautiful 4x4 multi-color coaster. I take custom color request for coaster sets, please include colors at checkout.
 
-<div id='product-component-1617130479798'></div>
+<div id='product-component-1617712905925'></div>
 <script type="text/javascript">
-<![CDATA[*/
+/*<![CDATA[*/
 (function () {
   var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
   if (window.ShopifyBuy) {
@@ -38,7 +38,7 @@ Beautiful 4x4 multi-color coaster. I take custom color request for coaster sets,
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
         id: '6671134294165',
-        node: document.getElementById('product-component-1617130479798'),
+        node: document.getElementById('product-component-1617712905925'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -97,6 +97,5 @@ Beautiful 4x4 multi-color coaster. I take custom color request for coaster sets,
     });
   }
 })();
-/*]]>
+/*]]>*/
 </script>
-
