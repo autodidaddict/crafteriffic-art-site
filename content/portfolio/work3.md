@@ -7,7 +7,7 @@ title = "Shark"
 weight = 14
 +++
 
-12x12 Ocean with Shark $65
+12x12 Ocean with Shark
 
 <div id='product-component-1617131671994'></div>
 <script type="text/javascript">
