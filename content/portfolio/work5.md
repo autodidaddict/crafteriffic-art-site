@@ -7,4 +7,4 @@ draft = false
 weight = 7
 +++
 
-Star-Trek inspired 8x8 acrylic cells on canvas $25
+Star-Trek inspired 8x8 acrylic cells on canvas
