@@ -7,7 +7,7 @@ title = "Seahorse"
 weight = 9
 +++
 
-Seahorse 7.5x19ish $55
+Seahorse 7.5x19 inches
 
 <div id='product-component-1617131285839'></div>
 <script type="text/javascript">
