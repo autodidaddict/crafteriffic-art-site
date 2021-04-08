@@ -1,5 +1,5 @@
 +++
-image = "/img/portfolio/star-trek.jpg"
+image = "/img/portfolio/IMG_6141.jpg"
 showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
 title = "Star Trek"
