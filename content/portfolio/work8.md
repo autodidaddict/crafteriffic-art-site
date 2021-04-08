@@ -1,6 +1,6 @@
 +++
 image = "/img/portfolio/IMG_5705.jpg"
-showonlyimage = true
+showonlyimage = false
 date = "2016-11-05T20:23:59+05:30"
 title = "Deep Clock"
 draft = false
