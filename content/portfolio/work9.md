@@ -7,7 +7,7 @@ title = "Large Sculpted Panel"
 weight = 4
 +++
 
-Beautiful 12x12 sculpted panel ocean with turtles $65
+Beautiful 12x12 sculpted panel ocean with turtles 
 
 <div id='product-component-1617130885332'></div>
 <script type="text/javascript">
